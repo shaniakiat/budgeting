@@ -112,14 +112,13 @@ label {
   transform: scale(1.05);
 }
 .info {
-  flex: 60% 0 60%;
+  flex: 0 0 60%;
   display: flex;
   justify-content: space-between;
 }
 .expense {
   margin-right: 2rem;
   text-transform: capitalize;
-  /* align-content: left; */
 }
 .amount {
   font-family: "Montserrat", sans-serif;
