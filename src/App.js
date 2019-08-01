@@ -12,7 +12,16 @@ const initialExpenses = [
 ];
 
 function App() {
+  // *********** state values ***********
+  // all expenses, add expenses
+
   const [expenses, setExpenses] = useState(initialExpenses);
+  // single expense
+  const [charge, setCharge] = useState("");
+  // single amount
+  const [amout, setAmount] = useState("");
+  // *********** functionality ***********
+
   return (
     <>
       <Alert />
