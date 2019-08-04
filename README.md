@@ -1,7 +1,7 @@
 # Budgeting
 
 budget calculator is a simple web application to manage budgets.
-![demo](https://raw.githubusercontent.com/bchiang7/octoprofile/master/static/og.png)
+![demo](https://github.com/shaniakiat/budgeting/blob/master/src/project/og.png)
 
 Built with:
 
