@@ -1,6 +1,11 @@
-# Project Title
+# Budgeting
 
 budget calculator is a simple web application to manage budgets.
+![demo](https://raw.githubusercontent.com/bchiang7/octoprofile/master/static/og.png)
+
+Built with:
+
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 ## Getting started
 
@@ -19,7 +24,6 @@ budget calculator is a simple web application to manage budgets.
 
 1. `npm start` to start the hot-reloading development server
 1. `open http://localhost:8000` to open the site in your favorite browser
-
 
 <!-- ### `npm start`
 
