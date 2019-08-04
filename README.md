@@ -1,10 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Getting started
 
-In the project directory, you can run:
+### Prerequisites
 
-### `npm start`
+1. Git
+1. Node: any 8.x version starting with 8.4.0 or greater
+1. A clone of the [budgeting repo](https://github.com/shaniakiat/budgeting) on your local machine
+
+### Installation
+
+1. `cd budgeting to go into the project root
+1. `npm install` to install the website's npm dependencies
+
+### Running locally
+
+1. `npm start` to start the hot-reloading development server
+1. `open http://localhost:8000` to open the site in your favorite browser
+
+
+<!-- ### `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -12,7 +27,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-<!-- ### `npm test`
+ ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
