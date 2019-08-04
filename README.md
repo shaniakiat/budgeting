@@ -23,7 +23,7 @@ Built with:
 ### Running locally
 
 1. `npm start` to start the hot-reloading development server
-1. `open http://localhost:8000` to open the site in your favorite browser
+1. `open http://localhost:3000` to open the site in your favorite browser
 
 <!-- ### `npm start`
 
