@@ -103,12 +103,15 @@ label {
   line-height: 1.5rem;
   padding: 12px 20px;
   margin-bottom: 1rem;
-  border: 1px solid var(--mainLightBlue);
+  /* border: 1px solid var(--mainLightBlue); */
+  border: none;
+  /* border-bottom: 1px solid var(--mainLightBlue); */
   border-radius: 15px;
   display: flex;
   justify-content: space-between;
   transition: all 0.3s linear;
 }
+
 .item:hover {
   box-shadow: 0 14px 28px rgb(147, 176, 224, 0.3),
     0 10px 10px rgb(147, 176, 224, 0.3);
